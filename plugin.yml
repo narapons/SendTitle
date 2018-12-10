@@ -1,0 +1,17 @@
+---
+name: SendTitle
+main: SendTitle\main
+version: 1.0.0
+api: 3.3.4
+author: narapon
+commands:
+  addtitle:
+    description: タイトル追加
+    usage: /addtitle <任意のタイトル名> <タイトル> <Subタイトル>
+  deltitle:
+    description: タイトル削除
+    usage: /deltitle <任意のタイトル名>
+  listtitle:
+    description: タイトル一覧
+    usage: /listtitle
+...
