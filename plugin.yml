@@ -2,7 +2,7 @@
 name: SendTitle
 main: SendTitle\main
 version: 1.0.0
-api: 3.3.4
+api: 3.4.0
 author: narapon
 commands:
   addtitle:
